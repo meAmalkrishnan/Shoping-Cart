@@ -1,10 +1,5 @@
-//
+
 //  ProviderDataController.swift
-//  ShipDone
-//
-//  Created by Nexibit on 5/2/22.
-//  Copyright © 2022 ShipDone Inc. All rights reserved.
-//
 
 import Foundation
 
